@@ -1,8 +1,8 @@
-<h2 align="center">👋 Hi, This is FlapyPan <img src="https://github.com/FlapyPan/FlapyPan/blob/main/assets/neko_0.gif" height="30px" alt="" /> </h2>
+<h2 align="center">👋 Hi, This is ruye-li <img src="https://github.com/FlapyPan/FlapyPan/blob/main/assets/neko_0.gif" height="30px" alt="" /> </h2>
 
 <p align="center">I'm a web program developer and high school student. I'm interested in development, especially new technologies.</p>
 
-<p align="center">See also my website: <a href="https://www.flapypan.top/">FlapyPan</a></p>
+<p align="center">See also my website: <a href="https://www.baidu.com/">ruye-li</a></p>
 
 <p align="center">
   <a href="mailto:zhoumingyuan02@gmail.com">
