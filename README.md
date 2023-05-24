@@ -8,9 +8,6 @@
   <a href="mailto:zhoumingyuan02@gmail.com">
     <img src="https://img.shields.io/badge/-zhoumingyuan02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhoumingyuan02@gmail.com" alt="Mail Badge"/>
   </a> 
-  <a href="https://www.github.com/ruye-li/">
-    <img src="https://img.shields.io/badge/-ruye-li-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ruye-li/" alt="GitHub Badge"/>
-  </a>
 </p>
 
 
