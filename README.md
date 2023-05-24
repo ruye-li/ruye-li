@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="mailto:zhoumingyuan02@gmail.com">
-    <img src="https://img.shields.io/badge/-flapypan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:flapypan@gmail.com" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/-zhoumingyuan02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhoumingyuan02@gmail.com" alt="Mail Badge"/>
   </a> 
   <a href="https://www.github.com/ruye-li/">
-    <img src="https://img.shields.io/badge/-FlapyPan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/FlapyPan/" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/-ruye-li-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ruye-li/" alt="GitHub Badge"/>
   </a>
 </p>
 
@@ -63,17 +63,3 @@
   <img height="42" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3521282-2944701.png"  alt=""/>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"  alt=""/>
 </p>
-
-
-<h2 align="center">〽️ GitHub Stats <img src="https://github.com/FlapyPan/FlapyPan/blob/main/assets/neko_2.gif" height="30px" alt="" /> </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlapyPan&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlapyPan&layout=compact&theme=algolia" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlapyPan" alt="Profile Views"/>
-</p>
-
